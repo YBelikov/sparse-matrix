@@ -1,2 +1,2 @@
 # sparse-matrix
-Simple general not very efficient sparse matrix class
+Simple general not very efficient sparse matrix class.
